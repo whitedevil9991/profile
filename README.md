@@ -9,13 +9,6 @@
 
 I'm currently a Analyst at Hudl.
 
-- Software Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
-- Technical Writer [@digitalocean](https://www.digitalocean.com/)
-- SWE Intern [@jpmorganchase](https://www.jpmorganchase.com/)
-- GSOC Student Collaborator [@rucio](https://www.creativecommons.org/) (via Google Summer of Code)
-- GSOD Technical Writer [@creativecommons](https://www.creativecommons.org/) (Follow my Google Season of Docs journey [here](https://opensource.creativecommons.org/blog/entries/)!)
-- SDE Intern [@divum](https://divum.in/)
-
 
 [<br><p align='center'> <img src="https://img.shields.io/badge/website-nimishbongale.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
 [<img src="https://img.shields.io/badge/email-nimishnb98@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
